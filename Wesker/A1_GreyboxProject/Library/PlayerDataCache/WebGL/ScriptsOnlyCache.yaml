@@ -1352,4 +1352,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Main menu.unity
   - Assets/Scenes/Scene 1.unity
-  playerPath: D:/SCU/DUEA1
+  playerPath: D:/A1
