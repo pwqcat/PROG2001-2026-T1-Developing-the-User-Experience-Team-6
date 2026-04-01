@@ -5,7 +5,6 @@ Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Core.ref.dll_3AC08951D7FF5D33
 Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Flow.ref.dll_81D169A85A08D1E2.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.State.ref.dll_3C5C88F0FB368CB3.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.UI.ref.dll_6C1073D56147DE5F.mvfrm
-Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_8DA2CA72408253E6.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.AccessibilityModule.dll_D78A855D90605E23.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.AIModule.dll_33584707106DF8E7.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.AndroidJNIModule.dll_4CD56F5390BA3225.mvfrm
@@ -71,3 +70,4 @@ Library\Bee\artifacts\mvdfrm\UnityEngine.VRModule.dll_819E0BBA0E6F840B.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.WebGLModule.dll_42FFDA811B40447E.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.WindModule.dll_02B6545841627487.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.XRModule.dll_B45CCEBE97A9D169.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_0FA5E441EDAE78EC.mvfrm
